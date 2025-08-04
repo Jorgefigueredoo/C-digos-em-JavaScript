@@ -1,1 +1,1 @@
-console.log("Olá Jorge, voce executou o código com sucesso!");
+console.log("Olá Jorge");
